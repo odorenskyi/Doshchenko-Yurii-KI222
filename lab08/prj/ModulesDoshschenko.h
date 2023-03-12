@@ -1,0 +1,6 @@
+#ifndef MODULESDOSHSCHENKO_H_INCLUDED
+#define MODULESDOSHSCHENKO_H_INCLUDED
+
+float s_calculation(int x, int y, int z);
+
+#endif // MODULESDOSHSCHENKO_H_INCLUDED

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678638944 source:c:\users\yuriy\desktop\8 laba bmtp\doshchenko-yurii-ki222\lab08\prj\doshschenko_task\main.cpp
+	<iostream>
+	"ModulesDoshschenko.h"
+	<Windows.h>
+
